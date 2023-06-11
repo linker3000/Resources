@@ -1,0 +1,36 @@
+Askelectronics
+
+This is a technical ELECTRONIC ENGINEERING subreddit, covering practical, component-level circuit design and repair, electronic circuit theory, electronic components, tools and equipment.
+
+Electronics
+
+A subreddit dedicated to component-level ELECTRONIC engineering: news, articles,  general industry discussions, completed electronic projects (show and tell). NOTE: *QUESTIONS* about components, circuits (design and repair) and tools, theory etc. should be posted in /r/AskElectronics .
+
+
+Replacement text
+
+This subreddit is temporarily private and is not accepting posts. This action is part of a mass protest against Reddit's recent API changes, which break third-party apps and moderation tools, effectively forcing users to use the official Reddit app. 
+
+The sub will remain private for at least 48hr from 0000UTC on 12th June 2023.
+
+Please check-in later to confirm normal service has been resumed.
+   
+We look forward to seeing you later, and thank you for your understanding.ank you for your understanding.
+
+
+# Linker3000: No posts during blackout
+type: any
+moderators_exempt: true
+comment_stickied : true
+comment:  |
+   This subreddit is temporarily private and is not accepting posts. This action is part of a mass protest 
+   against Reddit's recent API changes, which break third-party apps and moderation tools, effectively 
+   forcing users to use the official Reddit app. 
+
+   The sub will remain private for at least 48hr from 0000UTC on 12th June 2023.
+
+   Please check-in later to confirm normal service has been resumed.
+   
+   We look forward to seeing you later, and thank you for your understanding.
+action: remove
+
